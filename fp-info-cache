@@ -1,4 +1,4 @@
-27549330584352426
+27551102724542845
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -73485,6 +73485,13 @@ net tie
 0
 4
 4
+Numpad
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
 Numpad
 LED_SK6812-E
 
